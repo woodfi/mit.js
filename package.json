@@ -1,0 +1,21 @@
+{
+  "name": "mit.js",
+  "version": "1.0.0",
+  "description": "Print the MIT license straight into the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ktrvs/mit.js/tree/master"
+  },
+  "keywords": [
+    "mit"
+  ],
+  "author": "ktrvs",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}

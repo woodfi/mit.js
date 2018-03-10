@@ -1,7 +1,7 @@
 # Mit.js
 
 <h4>
-  <a href="https://github.com/ktrvs/mit.js/issues/new"> Open an issue </a>
+  <a href="https://github.com/vutondesign/mit.js/issues/new"> Open an issue </a>
   <span> | </span>
   <a href="#installation">Install this</a>
   <span> | </span>
@@ -12,7 +12,7 @@ Print the MIT license straight into the console.
 
 ### Installation
 ```
-git clone https://github.com/ktrvs/mit.js.git
+git clone https://github.com/vutondesign/mit.js.git
 cd mit
 npm install
 ```
@@ -28,7 +28,7 @@ node .
 ```
 
 ### License 
-🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.github.io/wave).
 
 ### Screenshot
 ![Screenshot1](http://i.cubeupload.com/F4n5of.png)
